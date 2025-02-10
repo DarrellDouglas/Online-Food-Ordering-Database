@@ -1,5 +1,3 @@
-# Online-Food-Ordering-Database
-Final project implementing a database for an online food ordering system using MySQL
 # Online Food Ordering Database
 
 This project implements an **Online Food Ordering Database** using MySQL. It includes tables, relationships, triggers, and sample data to simulate a real-world online ordering system.
@@ -18,4 +16,4 @@ This project implements an **Online Food Ordering Database** using MySQL. It inc
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone <repository-URL>
+  git clone https://github.com/DarrellDouglas/Online-Food-Ordering-Database.git
