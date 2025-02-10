@@ -5,7 +5,7 @@ This project implements an **Online Food Ordering Database** using MySQL. It inc
 ## Project Resources
 - [EER Diagram](https://github.com/<DarrellDouglas>/Online-Food-Ordering-Database/blob/main/eer-diagram.png)
 - [CreateDB.sql](https://github.com/<DarrellDouglas>/Online-Food-Ordering-Database/blob/main/CreateDB.sql)
-- [PopulateData.sql](https://github.com/<DarrellDouglas>/Online-Food-Ordering-Database/blob/main/PopulateData.sql)
+- [PopulateData.sql](FinalProject-Online Food Ordering/PopulateData.sql)
 - [User Guide](https://github.com/<DarrellDouglas>/Online-Food-Ordering-Database/blob/main/User%20Guide.docx)
 
 ## Database Design
