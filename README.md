@@ -1,4 +1,4 @@
-# Online Food Ordering Database
+# Online Food Ordering Database👨🏾‍💻
 
 This project implements an **Online Food Ordering Database** using MySQL. It includes tables, relationships, triggers, and sample data to simulate a real-world online ordering system.
 
