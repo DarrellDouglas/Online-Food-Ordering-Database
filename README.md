@@ -9,7 +9,7 @@ This project implements an **Online Food Ordering Database** using MySQL. It inc
 - [User Guide](https://github.com/DarrellDouglas/Online-Food-Ordering-Database/blob/main/FinalProject-Online%20Food%20Ordering/User%20Guide.docx)
 
 ## Database Design
-![EER Diagram](https://github.com/<your-username>/Online-Food-Ordering-Database/blob/main/eer-diagram.png)
+- [EER Diagram](https://github.com/DarrellDouglas/Online-Food-Ordering-Database/blob/main/FinalProject-Online%20Food%20Ordering/Screen%20Shot%202025-02-09%20at%2022.24.31%20PM.png)
 
 ### Features
 - **Audit Logging**: Tracks all insertions and deletions in the `tbl_employee` table using `AFTER INSERT` and `AFTER DELETE` triggers.
