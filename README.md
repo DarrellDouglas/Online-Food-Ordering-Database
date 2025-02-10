@@ -15,7 +15,8 @@ This project implements an **Online Food Ordering Database** using MySQL. It inc
 - Sample data for testing the system.
 
 ## Screencast Video
-Watch the walkthrough of the project https://go.screenpal.com/watch/cTn6etnhlUN![image](https://github.com/user-attachments/assets/d9763047-8f83-45b9-a533-abb2abec526a)
+Watch the walkthrough of the project https://go.screenpal.com/watch/cTn6etnhlUN.
+
 
 ## Setup Instructions
 1. Clone this repository:
