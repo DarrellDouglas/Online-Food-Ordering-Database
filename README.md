@@ -16,9 +16,3 @@ This project implements an **Online Food Ordering Database** using MySQL. It inc
 
 ## Screencast Video
 Watch the walkthrough of the project https://go.screenpal.com/watch/cTn6etnhlUN.
-
-
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-  git clone https://github.com/DarrellDouglas/Online-Food-Ordering-Database.git
